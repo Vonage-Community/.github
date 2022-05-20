@@ -16,7 +16,7 @@ at Vonage. Here for you.
   - [Send an SMS with .Net 6 and Minimal APIs](https://github.com/Vonage-Community/blog-sms-dotnet_minimal_api-send_sms) 
 - Voice API
   - [NCCO with Azure Serverless Functions](https://github.com/Vonage-Community/blog-voice-dotnet-serverless_contact_centre)
-
+  - [Making a Voice Call from Flutter to a Physical Phone](https://github.com/Vonage-Community/blog-voice-flutter-app_to_phone)
 
 ### Tutorials
 - [Video Conference App With Vonage API](https://github.com/Vonage-Community/tutorial-video-js-video_conference_application)
