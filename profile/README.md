@@ -29,6 +29,8 @@ at Vonage. Here for you.
 - Messages API
   - [SalesForce Node.js connector](https://github.com/Vonage-Community/sample-messages-salesforce-nodejsconnector)
   - [SalesForce Lightning connector](https://github.com/Vonage-Community/sample-messages-salesforce-lightning_component)
+- Video API
+  - [Vonage Video Express iOS and Android Demo](https://github.com/Vonage-Community/sample-video_express-swift_kotlin-video_express_native)
 
 
 ----
