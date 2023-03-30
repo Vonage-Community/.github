@@ -31,6 +31,7 @@ at Vonage. Here for you.
   - [SalesForce Lightning connector](https://github.com/Vonage-Community/sample-messages-salesforce-lightning_component)
 - Video API
   - [Vonage Video Express iOS and Android Demo](https://github.com/Vonage-Community/sample-video_express-swift_kotlin-video_express_native)
+  - [Vonage Video Audio Connector Demo](https://github.com/Vonage-Community/demo-video-node-audio_connector)
 
 
 ----
