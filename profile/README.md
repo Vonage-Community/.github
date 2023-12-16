@@ -18,6 +18,8 @@ at Vonage. Here for you.
   - [NCCO with Azure Serverless Functions](https://github.com/Vonage-Community/blog-voice-dotnet-serverless_contact_centre)
   - [Making a Voice Call from Flutter to a Physical Phone](https://github.com/Vonage-Community/blog-voice-flutter-app_to_phone)
   - [Streaming Audio into a Call with Node.js](https://github.com/Vonage-Community/blog-voice-node-stream-audio-into-a-phone-call-with-node-js)
+- Video API
+  - [Enhancing Video Streams with QR Codes and Watermarking](https://github.com/Vonage-Community/blog-video_api-javascript_enhancing_video_streams_with_qr_codes_and_watermarking)
 
 ### Tutorials
 - [Video Conference App With Vonage API](https://github.com/Vonage-Community/tutorial-video-js-video_conference_application)
