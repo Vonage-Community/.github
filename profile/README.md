@@ -21,6 +21,8 @@ at Vonage. Here for you.
   - [Streaming Audio into a Call with Node.js](https://github.com/Vonage-Community/blog-voice-node-stream-audio-into-a-phone-call-with-node-js)
 - SIM Swap API
   - [Improve Your Multifactor Auth With Verify and SIM Swap APIs](https://github.com/Vonage-Community/blog-sim-swap_verifyv2-javascript-multifactor_authentication)
+- Number Insight API
+  - [Three Levels of Phone Number Insights and Identification](https://github.com/Vonage-Community/blog-number_insights-javascript_node-three_levels_of_phone_number_insights_and_identification)
 
 ### Tutorials
 - [Video Conference App With Vonage API](https://github.com/Vonage-Community/tutorial-video-js-video_conference_application)
