@@ -19,6 +19,7 @@ at Vonage. Here for you.
   - [NCCO with Azure Serverless Functions](https://github.com/Vonage-Community/blog-voice-dotnet-serverless_contact_centre)
   - [Making a Voice Call from Flutter to a Physical Phone](https://github.com/Vonage-Community/blog-voice-flutter-app_to_phone)
   - [Streaming Audio into a Call with Node.js](https://github.com/Vonage-Community/blog-voice-node-stream-audio-into-a-phone-call-with-node-js)
+  - [Connect Calls Using the Vonage Voice API](https://github.com/Vonage-Community/blog-voice_api-node-connect-calls)
 - SIM Swap API
   - [Improve Your Multifactor Auth With Verify and SIM Swap APIs](https://github.com/Vonage-Community/blog-sim-swap_verifyv2-javascript-multifactor_authentication)
 
