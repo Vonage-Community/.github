@@ -9,7 +9,7 @@ at Vonage. Here for you.
 ### Blogposts
 
 - Messages API
-  - [Restaurant Is Now Delivering: a Facebook Bot in Node.js](https://github.com/Vonage-Community/blog-messages-node-restaurant_delivery_facebook_bot)
+  - [How to Send and Receive RCS Suggested Replies with Node.js](https://github.com/Vonage-Community/tutorial-messages-node-rcs_suggested_replies)
   - [Build an Appointment Scheduler using Node, Firebase, and Vonage](https://github.com/Vonage-Community/blog-messages_api-node_firebase-appointment_scheduler)
   - [How to send SMS Messages with Swift and Vapor using Async/Await](https://github.com/Vonage-Community/blog-messages-swift_vapor-async_sms)
   - [Build an Interactive Board: WhatsApp, SMS, and MMS to a Website](https://github.com/Vonage-Community/blog-messages_api-javascript-interactive_board)
