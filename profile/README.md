@@ -35,13 +35,12 @@ at Vonage. Here for you.
   - [SalesForce Node.js connector](https://github.com/Vonage-Community/sample-messages-salesforce-nodejsconnector)
   - [SalesForce Lightning connector](https://github.com/Vonage-Community/sample-messages-salesforce-lightning_component)
 - Video API
-  - [Video API Web Samples](https://github.com/Vonage-Community/video-api-web-samples)
   - [Sample Learning Server - Node.js](https://github.com/Vonage-Community/sample-video-node-learning_server)
   - [Sample Learning Server - PHP](https://github.com/Vonage-Community/sample-video-php-learning_server)
-- Video API (Tokbox)
-  - [Vonage Video Express iOS and Android Demo](https://github.com/Vonage-Community/sample-video_express-swift_kotlin-video_express_native)
+  - [Voange Video Reference App for Android](https://github.com/vonage/vonage-video-android-app)
+  - [Vonage Video Reference App for iOS](https://github.com/vonage/vonage-video-ios-app)
+  - [Vonave Video Reference App for ReactJS](https://github.com/vonage/vonage-video-react-app)
   - [Vonage Video Audio Connector Demo](https://github.com/Vonage-Community/demo-video-node-audio_connector)
-
 
 ----
 
